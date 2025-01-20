@@ -33,6 +33,6 @@ $$FR = 10 * \left(\frac{8T + 4S + I^{2}}{85} \right)^{\frac{4\sqrt{S + 5}}{F}}$$
 
 ## How do I maximise my FR?
 
-By looking at the equation, you can see that I is being raised to the power of two.
+By looking at the equation, you can see that $$I$$ is being raised to the power of two.
 
-This means that $$I$$ (how often I interact with you) increases your FR much faster than other attributes.
+This means that increasing $$I$$ (how often I interact with you) increases your overall FR much faster than other attributes.
