@@ -34,6 +34,6 @@ summation_4 = sum((T**3 + I**3 + S**3) / n for n in range(1, F + 1))
 denominator = math.sqrt(1 + summation_4) + math.exp(-F / phi) + math.log(2)
 
 # Final FR calculation
-FR = 10 * math.tanh(numerator / denominator)
+FR = abs(10 * math.tanh(numerator / denominator));
 
 print(str(FR));
