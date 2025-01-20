@@ -18,16 +18,12 @@ def calculate_friend_rating(T, S, I, F):
     if F < 0:
         raise ValueError("F (number of friends) must be non-negative.")
 
-    numerator = math.log(F + math.e) + (2 * T + S + 3 * I)
-    denominator = math.sqrt(F*2 + 1)
-    FR = (10 / 3) * (numerator / denominator)
+    fraction = (8*T + 4*S + I**2)/85
+    exponent = 4*math.sqrt(S+5)/F
 
-    # The uncapped FR (without the 10 max)
-    uncapped_FR = FR
+    FR = 10 * (fraction ** exponent)
 
-    # Ensure FR is within bounds [0, 10]
-    FR = max(0, min(10, FR))
-    return [FR, uncapped_FR]
+    return FR
 
 # Ask user to input values
 T = float(input("How often do you think about that friend?"))
@@ -35,7 +31,6 @@ S = float(input("How often do you see that friend?"))
 I = float(input("How often do you interact with that friend?"))
 F = int(input("How many friends are involved?"))
 
-ratings = calculate_friend_rating(T, S, I, F)
+friend_rating = calculate_friend_rating(T, S, I, F)
 
-print(f"Friend Rating (FR): {ratings[0]:.2f}")
-print(f"Uncapped FR: {ratings[1]:.2f}")
+print(f"Friend Rating (FR): {friend_rating:.2f}")
