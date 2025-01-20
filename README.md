@@ -1,4 +1,4 @@
-# Friend Rating Calculation Code
+# Friend Rating Calculation
 
 ## What is Friend Rating?
 
