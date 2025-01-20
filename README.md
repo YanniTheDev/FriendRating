@@ -36,3 +36,7 @@ $$FR = 10 * \left(\frac{8T + 4S + I^{2}}{85} \right)^{\frac{4\sqrt{S + 5}}{F}}$$
 By looking at the equation, you can see that $$I$$ is being raised to the power of two.
 
 This means that increasing $$I$$ (how often I interact with you) increases your overall FR much faster than other attributes.
+
+## When Will I calculate the FR for you?
+
+I calculate the FR for each and everyone that takes part in the Final Positive Thursday in each year!
