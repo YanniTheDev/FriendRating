@@ -17,6 +17,9 @@ The FR is related to three significant attributes and one insignificant attribut
 - S (how often I see you)
 - I (how often I interact with you)
 
+Each of these three attributes will score from 0 to 5.
+If you wish to know what you scored on each attribute, please contact me.
+
 ### Insignificant Attributes
 
 - F (total number of friends that I am calculating for a FR during this session)
