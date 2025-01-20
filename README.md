@@ -21,4 +21,6 @@ The FR is related to three significant attributes and one insignificant attribut
 
 - F (total number of friends that I am calculating for a FR during this session)
 
-Altogether, they will combine to form the equation: $$FR = 10 * $$
+Altogether, they will combine to form the equation:
+
+$$FR = 10 * ((\frac{8T + 4S + I^{2}}{85})^{\frac{4\sqrt{S + 5}}{F}})$$
