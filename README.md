@@ -40,3 +40,5 @@ This means that increasing $$I$$ (how often I interact with you) increases your 
 ## When Will I calculate the FR for you?
 
 I calculate the FR for each and everyone that takes part in the Final Positive Thursday in each year!
+
+**NOTE**: The FR you receive will be the FR that was calculated from the most recent Final Positive Thursday.
