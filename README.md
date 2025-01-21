@@ -19,6 +19,8 @@ The FR is related to three significant attributes and one insignificant attribut
 
 Each of these three attributes will score from 0 to 5.
 
+The score you get on each of the attributes is determined on the day before FR is calculated.
+
 If you wish to know what you scored on each attribute, please contact me.
 
 ### Insignificant Attributes
