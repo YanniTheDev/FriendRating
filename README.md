@@ -65,3 +65,8 @@ And so the three friends' **FR** are:
 - Jimmy: $$ 6.79 / 18.14 = 37.14% $$ <--------- **FR**
 - Max: $$ 7.23 / 18.14 = 39.86% $$ <--------- **FR**
 - Khan: $$ 4.12 / 18.14 = 22.71% $$ <--------- **FR**
+
+## Why?
+Well... the short answer is that in a large enough friend group, the FS usually skews to the right,
+with a lot of people ending up with very small low FS and very few people with high FS. To make it less
+obvious, **FR** is created.
