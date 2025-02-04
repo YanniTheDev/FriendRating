@@ -49,4 +49,8 @@ I calculate the FS for each and everyone that takes part in the Final Positive T
 
 ## What is Friend Rank?
 
-Friend Rank (FR) is how you rank against other people's FS in the pool of FS that I calculated for a session.
+Friend Rank (FR) is how much your individual FS fills up the TOTAL FS that I calculated from a session.
+
+## I'm confused... an example?
+
+Let's say
