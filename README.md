@@ -60,3 +60,8 @@ Let's say that in a group of three friends (Jimmy, Max, Khan), they have the FS:
 - Khan: 4.12
 
 Then the TOTAL FS for this session is: $$ 6.79 + 7.23 + 4.12 = 18.14 $$
+
+And so the three friends' **FR** are:
+- Jimmy: $$ 6.79 / 18.14 = 37.14% $$ <--------- **FR**
+- Max: $$ 7.23 / 18.14 = 39.86% $$ <--------- **FR**
+- Khan: $$ 4.12 / 18.14 = 22.71% $$ <--------- **FR**
