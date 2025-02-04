@@ -53,4 +53,10 @@ Friend Rank (FR) is how much your individual FS fills up the TOTAL FS that I cal
 
 ## I'm confused... an example?
 
-Let's say
+Let's say that in a group of three friends (Jimmy, Max, Khan), they have the FS:
+
+- Jimmy: 6.79
+- Max: 7.23
+- Khan: 4.12
+
+Then the TOTAL FS for this session is: $$ 6.79 + 7.23 + 4.12 = 18.14 $$
